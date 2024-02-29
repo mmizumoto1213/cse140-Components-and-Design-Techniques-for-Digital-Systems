@@ -1,0 +1,46 @@
+# Compile of dat_mem.sv was successful.
+# Compile of Lab_5b_tb.sv was successful.
+# Compile of Lab_5c_tb.sv was successful.
+# Compile of lfsr6b.sv was successful.
+# Compile of top_level_5b_start.sv was successful with warnings.
+# 5 compiles, 0 failed with no errors.
+vsim -gui Lab5.Lab_5b_tb
+# vsim -gui Lab5.Lab_5b_tb 
+# Start time: 19:13:36 on Dec 15,2023
+# Loading sv_std.std
+# Loading Lab5.Lab_5b_tb
+# Loading Lab5.top_level_5b
+# Loading Lab5.dat_mem
+# Loading Lab5.lfsr6b
+run -all
+# preamble length =   7
+# tap pattern           2 selected
+# LFSR starting pattern = 000001
+# original message string length =          50
+# embedded leading underscore count =           0
+# run encryption of this original message: 
+# @@@@@@@@@@``````````@@@@@@@@@@``````````@@@@@@@@@@
+#  
+# LFSR_ptrn = 30, LFSR_init = 01 01
+# here is the original message with _ preamble padding
+# _______@@@@@@@@@@``````````@@@@@@@@@@``````````@@@@@@@@@@_______
+# 
+# here is the padded and encrypted pattern in ASCII
+# ^][WO~\FLXqbEJTiSGo~]ZTHqCgN\yrdIReKVM{WN}[VLySfMZujUkWo_`acgo^
+# 
+# here is the padded pattern in hex
+#  5f 5f 5f 5f 5f 5f 5f 40 40 40 40 40 40 40 40 40 40 60 60 60 60 60 60 60 60 60 60 40 40 40 40 40 40 40 40 40 40 60 60 60 60 60 60 60 60 60 60 40 40 40 40 40 40 40 40 40 40 5f 5f 5f 5f 5f 5f 5f
+# 
+# done at time              1465000
+# match = 000100  foundit = 2
+# dut decryption = 
+#   40  40  40  40  40  40  40  40  40  40  60  60  60  60  60  60  60  60  60  60  40  40  40  40  40  40  40  40  40  40  60  60  60  60  60  60  60  60  60  60  40  40  40  40  40  40  40  40  40  40  xx  xx  xx  xx  xx  xx  xx 
+# run decryption:
+# ct =           0
+# 40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   60 60   60 60   60 60   60 60   60 60   60 60   60 60   60 60   60 60   60 60   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   60 60   60 60   60 60   60 60   60 60   60 60   60 60   60 60   60 60   60 60   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40   40 40    
+# fault_count =           0
+# ** Note: $stop    : C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab5/Lab_5c_tb.sv(186)
+#    Time: 2505 ns  Iteration: 0  Instance: /Lab_5b_tb
+# Break in NamedBeginStat initial_loop at C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab5/Lab_5c_tb.sv line 186
+# End time: 19:14:11 on Dec 15,2023, Elapsed time: 0:00:35
+# Errors: 0, Warnings: 2
