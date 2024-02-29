@@ -1,0 +1,142 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1
+Xlab3_part2_tb_file_sv_unit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 13 light_package 0 22 AT7B8DmbMQ6@<QC_]nXOQ1
+Z2 !s110 1700344913
+VnFSSh_[h2g@GJo_z>1LnB1
+r1
+!s85 0
+!i10b 1
+!s100 dKI4mYLlh58;3S0BD8d8W0
+InFSSh_[h2g@GJo_z>1LnB1
+!i103 1
+S1
+Z3 dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2
+Z4 w1700297973
+Z5 8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/lab3_part2_tb_file.sv
+Z6 FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/lab3_part2_tb_file.sv
+!i122 60
+Z7 L0 6 0
+Z8 OV;L;2020.1;71
+31
+Z9 !s108 1700344913.000000
+Z10 !s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/lab3_part2_tb_file.sv|
+Z11 !s90 -reportprogress|300|-work|Lab3Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/lab3_part2_tb_file.sv|
+!i113 1
+Z12 o-work Lab3Pt2 -sv
+Z13 tCvgOpt 0
+vlab3_part2_tbf
+R0
+R1
+DXx4 work 26 lab3_part2_tb_file_sv_unit 0 22 nFSSh_[h2g@GJo_z>1LnB1
+R2
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 Hm_Q^Y2;GLjKL[W:EFnje2
+IVRD^lXmS8[KcMcDTYfV@a0
+!s105 lab3_part2_tb_file_sv_unit
+S1
+R3
+R4
+R5
+R6
+!i122 60
+L0 7 156
+R8
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Xlight_package
+R0
+R2
+!i10b 1
+!s100 d_e:UoWRooVN6ZbaNaC3h0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IAT7B8DmbMQ6@<QC_]nXOQ1
+VAT7B8DmbMQ6@<QC_]nXOQ1
+S1
+R3
+w1700297980
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/light_package.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/light_package.sv
+!i122 61
+L0 1 0
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/light_package.sv|
+!s90 -reportprogress|300|-work|Lab3Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/light_package.sv|
+!i113 1
+R12
+R13
+vtraffic_light_controller
+R0
+R1
+DXx4 work 46 traffic_light_controller_part2_starter_sv_unit 0 22 1^:AY^8lNf9Z:e;LSzD440
+R2
+R14
+r1
+!s85 0
+!i10b 1
+!s100 z:k?kIfiI4K0bOKo0^^Dc1
+IYO;z2nK21QLmzbTG<Y?LL2
+!s105 traffic_light_controller_part2_starter_sv_unit
+S1
+R3
+Z15 w1700344912
+Z16 8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv
+Z17 FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv
+!i122 62
+L0 9 312
+R8
+31
+R9
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv|
+Z18 !s90 -reportprogress|300|-work|Lab3Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv|
+!i113 1
+R12
+R13
+Xtraffic_light_controller_part2_starter_sv_unit
+R0
+R1
+R2
+V1^:AY^8lNf9Z:e;LSzD440
+r1
+!s85 0
+!i10b 1
+!s100 @Y0Qj<Uoi>RQkOh>So3fa3
+I1^:AY^8lNf9Z:e;LSzD440
+!i103 1
+S1
+R3
+R15
+R16
+R17
+!i122 62
+R7
+R8
+31
+R9
+Z19 !s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv|
+R18
+!i113 1
+R12
+R13

@@ -1,0 +1,26 @@
+C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv {1 {vlog -work Lab3Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/traffic_light_controller_part2_starter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package traffic_light_controller_part2_starter_sv_unit
+-- Importing package light_package
+-- Compiling module traffic_light_controller
+
+Top level modules:
+	traffic_light_controller
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/lab3_part2_tb_file.sv {1 {vlog -work Lab3Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/lab3_part2_tb_file.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package lab3_part2_tb_file_sv_unit
+-- Importing package light_package
+-- Compiling module lab3_part2_tbf
+
+Top level modules:
+	lab3_part2_tbf
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/light_package.sv {1 {vlog -work Lab3Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2/light_package.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package light_package
+
+Top level modules:
+	--none--
+
+} {} {}}

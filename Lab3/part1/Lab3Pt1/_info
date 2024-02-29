@@ -1,0 +1,197 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter
+Xdesign_sv_unit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 13 light_package 0 22 AKRIhn5MKF2D6L<G12;:Q3
+Z2 !s110 1700302858
+V<Ej8=<4I:i>[6oM9K6ehe3
+r1
+!s85 0
+!i10b 1
+!s100 G_WPC^37JlRCLWoSf:g>K2
+I<Ej8=<4I:i>[6oM9K6ehe3
+!i103 1
+S1
+Z3 dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1
+Z4 w1700302853
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/design.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/design.sv
+Flight_package.sv
+Ftraffic_light_controller1.sv
+!i122 104
+Z5 L0 7 0
+Z6 OV;L;2020.1;71
+31
+Z7 !s108 1700302858.000000
+!s107 traffic_light_controller1.sv|light_package.sv|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/design.sv|
+!s90 -reportprogress|300|-work|Lab3Pt1|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/design.sv|
+!i113 1
+Z8 o-work Lab3Pt1 -sv
+Z9 tCvgOpt 0
+vlab3_part1_tb
+R0
+Z10 DXx4 work 13 light_package 0 22 :TN@2Y;mhHd]]e>1ZENfN2
+DXx4 work 17 testbench_sv_unit 0 22 ]ncQFcXzCCY4mgzdc0;KY2
+R2
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 zO`@N[_7hfWSfze32dYC[2
+I6fG]EU;?kWiTTkOzZ>adS0
+!s105 testbench_sv_unit
+S1
+R3
+Z12 w1700291863
+8lab3_part1_tb.sv
+Z13 Flab3_part1_tb.sv
+!i122 107
+L0 8 123
+R6
+31
+R7
+Z14 !s107 lab3_part1_tb.sv|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/testbench.sv|
+Z15 !s90 -reportprogress|300|-work|Lab3Pt1|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/testbench.sv|
+!i113 1
+R8
+R9
+Xlab3_part1_tb_sv_unit
+R0
+R1
+R2
+VLU[ATMZlCamkY3LAcZ9QT2
+r1
+!s85 0
+!i10b 1
+!s100 Cm2U34TJ=zkYT@5Xjb]h40
+ILU[ATMZlCamkY3LAcZ9QT2
+!i103 1
+S1
+R3
+R12
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/lab3_part1_tb.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/lab3_part1_tb.sv
+!i122 105
+Z16 L0 5 0
+R6
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/lab3_part1_tb.sv|
+!s90 -reportprogress|300|-work|Lab3Pt1|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/lab3_part1_tb.sv|
+!i113 1
+R8
+R9
+Xlight_package
+R0
+R2
+!i10b 1
+!s100 gF64nY7>M0MTmXcWEg0272
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I:TN@2Y;mhHd]]e>1ZENfN2
+V:TN@2Y;mhHd]]e>1ZENfN2
+S1
+R3
+w1700291867
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/light_package.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/light_package.sv
+!i122 106
+L0 3 0
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/light_package.sv|
+!s90 -reportprogress|300|-work|Lab3Pt1|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/light_package.sv|
+!i113 1
+R8
+R9
+Xtestbench_sv_unit
+R0
+R10
+R2
+V]ncQFcXzCCY4mgzdc0;KY2
+r1
+!s85 0
+!i10b 1
+!s100 BHgdGCcg3A^dc]L[GZC^f0
+I]ncQFcXzCCY4mgzdc0;KY2
+!i103 1
+S1
+R3
+w1700291871
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/testbench.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/testbench.sv
+R13
+!i122 107
+R16
+R6
+31
+R7
+R14
+R15
+!i113 1
+R8
+R9
+vtraffic_light_controller1
+R0
+R10
+DXx4 work 33 traffic_light_controller1_sv_unit 0 22 HAULZF:7lE70mzN_3;@8D1
+Z17 !s110 1700302859
+R11
+r1
+!s85 0
+!i10b 1
+!s100 Yz=6BKz`X6J>oMhd2[_ej0
+I9L@SK2Ue`gaXG@J@mS2213
+!s105 traffic_light_controller1_sv_unit
+S1
+R3
+R4
+Z18 8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv
+Z19 FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv
+!i122 108
+L0 10 177
+R6
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv|
+Z20 !s90 -reportprogress|300|-work|Lab3Pt1|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv|
+!i113 1
+R8
+R9
+Xtraffic_light_controller1_sv_unit
+R0
+R10
+R17
+VHAULZF:7lE70mzN_3;@8D1
+r1
+!s85 0
+!i10b 1
+!s100 hbXn]bQP?;k1eC>OY95S@2
+IHAULZF:7lE70mzN_3;@8D1
+!i103 1
+S1
+R3
+R4
+R18
+R19
+!i122 108
+R5
+R6
+31
+R7
+Z21 !s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv|
+R20
+!i113 1
+R8
+R9

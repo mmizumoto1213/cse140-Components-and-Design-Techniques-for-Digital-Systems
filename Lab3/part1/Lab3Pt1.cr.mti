@@ -1,0 +1,45 @@
+C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/design.sv {1 {vlog -work Lab3Pt1 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/design.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package light_package
+-- Compiling package design_sv_unit
+-- Importing package light_package
+-- Compiling module traffic_light_controller1
+
+Top level modules:
+	traffic_light_controller1
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/lab3_part1_tb.sv {1 {vlog -work Lab3Pt1 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/lab3_part1_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package lab3_part1_tb_sv_unit
+-- Importing package light_package
+-- Compiling module lab3_part1_tb
+
+Top level modules:
+	lab3_part1_tb
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv {1 {vlog -work Lab3Pt1 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/traffic_light_controller1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package traffic_light_controller1_sv_unit
+-- Importing package light_package
+-- Compiling module traffic_light_controller1
+
+Top level modules:
+	traffic_light_controller1
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/light_package.sv {1 {vlog -work Lab3Pt1 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/light_package.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package light_package
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/testbench.sv {1 {vlog -work Lab3Pt1 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part1/testbench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package testbench_sv_unit
+-- Importing package light_package
+-- Compiling module lab3_part1_tb
+
+Top level modules:
+	lab3_part1_tb
+
+} {} {}}
