@@ -1,0 +1,59 @@
+C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb_file.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb_file.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package display_tb_file_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/ct_mod_N.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/ct_mod_N.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ct_mod_N
+
+Top level modules:
+	ct_mod_N
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package display_tb_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package lab2_2_tb_sv_unit
+-- Compiling module lab2_tb
+
+Top level modules:
+	lab2_tb
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lcd_int3.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lcd_int3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_int
+
+Top level modules:
+	lcd_int
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/struct_diag.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/struct_diag.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module struct_diag
+
+Top level modules:
+	struct_diag
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_tb_file.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_tb_file.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package lab2_tb_file_sv_unit
+-- Compiling module lab2_tb
+
+Top level modules:
+	lab2_tb
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/alarm.sv {1 {vlog -work Lab2Pt2 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/alarm.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm
+
+Top level modules:
+	alarm
+
+} {} {}}

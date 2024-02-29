@@ -1,0 +1,189 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab1
+valarm
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1698957911
+!i10b 1
+!s100 RlIh?lOGamk=fYXPD8]R43
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYQbUiFkQk84BA^A00fz9V2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1698957032
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/alarm.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/alarm.sv
+!i122 12
+L0 4 12
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1698957911.000000
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/alarm.sv|
+!s90 -reportprogress|300|-work|Lab2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/alarm.sv|
+!i113 1
+Z8 o-work Lab2 -sv
+Z9 tCvgOpt 0
+vct_mod_N
+R1
+R2
+!i10b 1
+!s100 8`WGVIWIcSjc<7<DjzlPG2
+R3
+I[=Ee5W0mEI^9LGGP>0K4?0
+R4
+S1
+R0
+R5
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/ct_mod_N.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/ct_mod_N.sv
+!i122 13
+L0 4 22
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/ct_mod_N.sv|
+!s90 -reportprogress|300|-work|Lab2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/ct_mod_N.sv|
+!i113 1
+R8
+R9
+nct_mod_@n
+Xdisplay_tb_file_sv_unit
+R1
+R2
+VMl=>mN[jZHUknAzcn7dok0
+r1
+!s85 0
+!i10b 1
+!s100 aPMfXSh2^FnbzToim=BkW0
+IMl=>mN[jZHUknAzcn7dok0
+!i103 1
+S1
+R0
+Z10 w1698957364
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/display_tb_file.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/display_tb_file.sv
+!i122 14
+Z11 L0 3 0
+R6
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/display_tb_file.sv|
+!s90 -reportprogress|300|-work|Lab2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/display_tb_file.sv|
+!i113 1
+R8
+R9
+vlab2_tb
+R1
+DXx4 work 20 lab2_tb_file_sv_unit 0 22 _LFCmNd?V3SEe@Hg1:NSg0
+R2
+R4
+r1
+!s85 0
+!i10b 1
+!s100 Y6`_AH6_]gPgohkWgfQfY1
+I9`8DjTC5J2NB`52iUonl81
+!s105 lab2_tb_file_sv_unit
+S1
+R0
+R5
+Z12 8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv
+Z13 FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv
+!i122 15
+L0 4 50
+R6
+31
+R7
+Z14 !s107 C:\Users\mmizu\OneDrive\Desktop\School\CSE140l\Lab2\part1_starter\display_tb_file.sv|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv|
+Z15 !s90 -reportprogress|300|-work|Lab2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv|
+!i113 1
+R8
+R9
+Xlab2_tb_file_sv_unit
+R1
+R2
+V_LFCmNd?V3SEe@Hg1:NSg0
+r1
+!s85 0
+!i10b 1
+!s100 5hV=g_RGZ5Qb;23WIUaID0
+I_LFCmNd?V3SEe@Hg1:NSg0
+!i103 1
+S1
+R0
+R10
+R12
+R13
+FC:\Users\mmizu\OneDrive\Desktop\School\CSE140l\Lab2\part1_starter\display_tb_file.sv
+!i122 15
+R11
+R6
+31
+R7
+R14
+R15
+!i113 1
+R8
+R9
+vlcd_int
+R1
+R2
+!i10b 1
+!s100 KZ=>2I7NVT?lDLYO?gzkk3
+R3
+IO665TMj6cOmh<:z?icjAU2
+R4
+S1
+R0
+R5
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lcd_int3.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lcd_int3.sv
+!i122 16
+L0 1 38
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lcd_int3.sv|
+!s90 -reportprogress|300|-work|Lab2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lcd_int3.sv|
+!i113 1
+R8
+R9
+vstruct_diag
+R1
+R2
+!i10b 1
+!s100 L9b;g[_JY7h4V8Q]QSXJU0
+R3
+IFmZ[e6k6YZP50D8cTP:]53
+R4
+S1
+R0
+w1698957850
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/struct_diag.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/struct_diag.sv
+!i122 17
+L0 4 73
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/struct_diag.sv|
+!s90 -reportprogress|300|-work|Lab2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/struct_diag.sv|
+!i113 1
+R8
+R9

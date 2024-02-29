@@ -1,0 +1,52 @@
+// load and store register with signals to control 
+//   high and low bits separately or at the same time
+// double-wide register -- very common in double-precision work
+// needed here because multiplying two 8-bit numbers provides a 16-bit product
+module register_hl # (parameter N = 16)
+ (input                clk,
+  input [N/2-1:0]      inh,
+  input [N/2-1:0]      inl,
+  input                loadh,
+  input                loadl,
+  input                clear,
+  output logic[N-1:0]  out	  	);
+	
+  always_ff @ (posedge clk, posedge clear) begin
+//fill in the guts  -- sequential
+// if(...) out[N-1:N/2] <= ...;
+// else if(...) out[N-1:N/2] <= ...;
+// if(...) out[N/2-1:0] <= ...;
+//  clear   loadh    loadl	 out[N-1:N/2]   out[N/2-1:0] 
+//    1	      x		x	     0				 0
+//    0       0        1       hold             inl
+//    0       1        0       inh              hold
+//    0       1        1       inh              inl
+//    0       0        0       hold             hold
+// If clear is active, reset the entire register to 0
+    if (clear) begin
+      out[N-1:N/2] <= 0;
+      out[N/2-1:0] <= 0;
+    end
+    // If both loadh and loadl are inactive, hold the current values
+    else if (!loadh & !loadl) begin
+      // No change, hold the current values
+    end
+    // If only loadl is active, load the low bits
+    else if (!loadh & loadl) begin
+      out[N/2-1:0] <= inl;
+    $display("The value of inl is %h", inl);
+    end
+    // If only loadh is active, load the high bits
+    else if (loadh & !loadl) begin
+      out[N-1:N/2] <= inh;
+    $display("The value of inh is %h", inh);
+    end
+    // If both loadh and loadl are active, load both high and low bits
+    else begin
+      out[N-1:N/2] <= inh;
+      out[N/2-1:0] <= inl;
+    $display("The value of h is %h", inh);
+    $display("The value of l is %h", inl);
+    end
+  end	
+endmodule

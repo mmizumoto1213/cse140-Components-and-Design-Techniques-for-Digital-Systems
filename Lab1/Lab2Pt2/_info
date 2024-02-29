@@ -1,0 +1,240 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab1
+valarm
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1698960124
+!i10b 1
+!s100 _omg<7?T@US8lGc`D?A^L2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgdA82<iU@aNjMOGeBCgSh3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1698959805
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/alarm.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/alarm.sv
+!i122 16
+L0 4 13
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1698960124.000000
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/alarm.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/alarm.sv|
+!i113 1
+Z7 o-work Lab2Pt2 -sv
+Z8 tCvgOpt 0
+vct_mod_N
+R1
+R2
+!i10b 1
+!s100 `PNg_bb[a==URH9ISdBGW3
+R3
+I=kIE]D_XZe6e@MgjkJ96A1
+R4
+S1
+R0
+Z9 w1698957055
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/ct_mod_N.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/ct_mod_N.sv
+!i122 17
+L0 4 64
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/ct_mod_N.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/ct_mod_N.sv|
+!i113 1
+R7
+R8
+nct_mod_@n
+Xdisplay_tb_file_sv_unit
+R1
+R2
+Ve>Hk9<>;BDNZ[oXPb;WT>3
+r1
+!s85 0
+!i10b 1
+!s100 WEDmO5Q@nFneZLO_8zTm93
+Ie>Hk9<>;BDNZ[oXPb;WT>3
+!i103 1
+S1
+R0
+R9
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb_file.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb_file.sv
+!i122 19
+Z10 L0 4 0
+R5
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb_file.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb_file.sv|
+!i113 1
+R7
+R8
+Xdisplay_tb_sv_unit
+R1
+R2
+V=0eizeWd:U:=d2U<gEa2Q0
+r1
+!s85 0
+!i10b 1
+!s100 m19B`JV[ed9dI4bcji8I^2
+I=0eizeWd:U:=d2U<gEa2Q0
+!i103 1
+S1
+R0
+R9
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb.sv
+!i122 18
+R10
+R5
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/display_tb.sv|
+!i113 1
+R7
+R8
+Xlab2_2_tb_sv_unit
+R1
+R2
+ViERiWz`l8TcNINYTCDZCh0
+r1
+!s85 0
+!i10b 1
+!s100 8635ie=lN[e:n`iS?K>FK3
+IiERiWz`l8TcNINYTCDZCh0
+!i103 1
+S1
+R0
+R9
+Z11 8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv
+Z12 FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv
+FC:\Users\mmizu\OneDrive\Desktop\School\CSE140l\Lab2\part2_starter\Lab2_Part2_Verilog_starter\display_tb.sv
+!i122 20
+R10
+R5
+31
+R6
+Z13 !s107 C:\Users\mmizu\OneDrive\Desktop\School\CSE140l\Lab2\part2_starter\Lab2_Part2_Verilog_starter\display_tb.sv|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv|
+Z14 !s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv|
+!i113 1
+R7
+R8
+vlab2_tb
+R1
+DXx4 work 17 lab2_2_tb_sv_unit 0 22 iERiWz`l8TcNINYTCDZCh0
+R2
+R4
+r1
+!s85 0
+!i10b 1
+!s100 [8[_9JBb3jY8oHY?1P]Hh3
+ImaY5h1OU_KO>M3E?nFklW0
+!s105 lab2_2_tb_sv_unit
+S1
+R0
+R9
+R11
+R12
+!i122 20
+L0 3 109
+R5
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+Xlab2_tb_file_sv_unit
+R1
+!s110 1698959114
+VEG7L5gfZ4d_CJGKJ6JMG51
+r1
+!s85 0
+!i10b 1
+!s100 PzONYoN6mLEa?Cna:ngN]1
+IEG7L5gfZ4d_CJGKJ6JMG51
+!i103 1
+S1
+R0
+R9
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_tb_file.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_tb_file.sv
+FC:\Users\mmizu\OneDrive\Desktop\School\CSE140l\Lab2\part2_starter\Lab2_Part2_Verilog_starter\display_tb_file.sv
+!i122 12
+R10
+R5
+31
+!s108 1698959114.000000
+!s107 C:\Users\mmizu\OneDrive\Desktop\School\CSE140l\Lab2\part2_starter\Lab2_Part2_Verilog_starter\display_tb_file.sv|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_tb_file.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_tb_file.sv|
+!i113 1
+R7
+R8
+vlcd_int
+R1
+R2
+!i10b 1
+!s100 necg^MkGei8:RJLX9cnbj2
+R3
+I^9WXBknF26HQifM9Z][;N0
+R4
+S1
+R0
+R9
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lcd_int3.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lcd_int3.sv
+!i122 21
+L0 3 46
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lcd_int3.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lcd_int3.sv|
+!i113 1
+R7
+R8
+vstruct_diag
+R1
+!s110 1698960125
+!i10b 1
+!s100 L9b;g[_JY7h4V8Q]QSXJU0
+R3
+If:S`h4E?fRUff;kF7;@]V3
+R4
+S1
+R0
+w1698957850
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/struct_diag.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/struct_diag.sv
+!i122 22
+L0 4 73
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/struct_diag.sv|
+!s90 -reportprogress|300|-work|Lab2Pt2|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/struct_diag.sv|
+!i113 1
+R7
+R8
