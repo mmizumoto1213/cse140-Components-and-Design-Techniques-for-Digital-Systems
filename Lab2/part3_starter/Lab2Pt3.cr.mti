@@ -1,0 +1,51 @@
+C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/lcd_int3.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/lcd_int3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_int
+
+Top level modules:
+	lcd_int
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/lab2_3_tb.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/lab2_3_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package lab2_3_tb_sv_unit
+-- Compiling module lab2_3_tb
+
+Top level modules:
+	lab2_3_tb
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/alarm.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/alarm.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm
+
+Top level modules:
+	alarm
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/ct_mod_D.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/ct_mod_D.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ct_mod_D
+
+Top level modules:
+	ct_mod_D
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/struct_diag.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/struct_diag.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module struct_diag
+
+Top level modules:
+	struct_diag
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/display_2_3_tb.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/display_2_3_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package display_2_3_tb_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/ct_mod_N.sv {1 {vlog -work Lab2Pt3 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part3_starter/ct_mod_N.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ct_mod_N
+
+Top level modules:
+	ct_mod_N
+
+} {} {}}

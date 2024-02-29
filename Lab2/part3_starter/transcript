@@ -1,0 +1,205 @@
+# Compile of alarm.sv was successful.
+# Compile of ct_mod_N.sv was successful.
+# Compile of display_tb_file.sv was successful.
+# Compile of lab2_tb_file.sv was successful.
+# Compile of lcd_int3.sv was successful.
+# Compile of struct_diag.sv was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui Lab2Pt1.lab2_tb
+# vsim -gui Lab2Pt1.lab2_tb 
+# Start time: 18:08:50 on Nov 04,2023
+# Loading sv_std.std
+# Loading Lab2Pt1.lab2_tb_file_sv_unit
+# Loading Lab2Pt1.lab2_tb
+# Loading Lab2Pt1.struct_diag
+# Loading Lab2Pt1.ct_mod_N
+# Loading Lab2Pt1.lcd_int
+# Loading Lab2Pt1.alarm
+# Load canceled
+run -all
+# Min is x
+# Hrs is x
+# ** Note: $stop    : C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv(46)
+#    Time: 3221 us  Iteration: 0  Instance: /lab2_tb
+# Break in Module lab2_tb at C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv line 46
+quit -sim
+# End time: 18:10:00 on Nov 04,2023, Elapsed time: 0:01:10
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project Lab2Pt2
+# Compile of alarm.sv was successful.
+# Compile of ct_mod_N.sv was successful.
+# Compile of display_tb.sv was successful.
+# Compile of lab2_2_tb.sv was successful.
+# Compile of lcd_int3.sv was successful.
+# Compile of struct_diag.sv was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui Lab2Pt2.lab2_tb
+# vsim -gui Lab2Pt2.lab2_tb 
+# Start time: 18:12:05 on Nov 04,2023
+# Loading sv_std.std
+# Loading Lab2Pt2.lab2_2_tb_sv_unit
+# Loading Lab2Pt2.lab2_tb
+# ** Error: (vsim-3033) Instantiation of 'top_level' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /lab2_tb File: C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv Line: 19
+#         Searched libraries:
+#             C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2Pt2
+# Error loading design
+# End time: 18:12:05 on Nov 04,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of alarm.sv was successful.
+# Compile of ct_mod_N.sv was successful.
+# Compile of display_tb.sv was successful.
+# Compile of lab2_2_tb.sv was successful.
+# Compile of lcd_int3.sv was successful.
+# Compile of struct_diag.sv was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui Lab2Pt2.lab2_tb
+# vsim -gui Lab2Pt2.lab2_tb 
+# Start time: 18:13:18 on Nov 04,2023
+# Loading sv_std.std
+# Loading Lab2Pt2.lab2_2_tb_sv_unit
+# Loading Lab2Pt2.lab2_tb
+# Loading Lab2Pt2.struct_diag
+# Loading Lab2Pt2.ct_mod_N
+# Loading Lab2Pt2.lcd_int
+# Loading Lab2Pt2.alarm
+run -all
+# buzz = x  at time                    0
+# buzz = 1  at time                 1000
+# 5':current time before setting:'00000', only 1 day digit, all initial values are 0
+#  _    _   _    _   _  
+# | |  | | | |  | | | | 
+# |_|  |_| |_|  |_| |_| 
+# buzz = 0  at time                 7000
+# 5':current time after setting,'40755', increment day successful
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+# display alarm time before setting:'40000', alarm digits does not affect day digit
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+# display alarm time after setting:'40801',alarm buzz at 0801
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+# display current time after setting alarm
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+#       _   _    _   _  
+# |_|  | | |_|  | | | | 
+#   |  |_| |_|  |_| |_| 
+# buzz = 1  at time               853000
+# Buzz on Friday.
+#       _   _    _      
+# |_|  | | |_|  | |   | 
+#   |  |_| |_|  |_|   | 
+# buzz = 0  at time               973000
+#       _   _    _   _  
+# |_|  | | |_|  | |  _| 
+#   |  |_| |_|  |_| |_  
+# 5': Day increase successfully by hours reaching 24
+#  _    _   _    _   _  
+# |_   | | |_|  | |  _| 
+#  _|  |_| |_|  |_| |_  
+#  _    _   _    _   _  
+# |_   | | |_|  | |  _| 
+# |_|  |_| |_|  |_| |_  
+# 5':Buzz on Friday(4), but not on Sat and Sun (5,6), Buzz again on Mon 0.
+#  _    _   _    _   _  
+#   |  | | |_|  | |  _| 
+#   |  |_| |_|  |_| |_  
+# ** Note: $stop    : C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv(103)
+#    Time: 522418 ns  Iteration: 0  Instance: /lab2_tb
+# Break in Module lab2_tb at C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv line 103
+quit -sim
+# End time: 18:14:28 on Nov 04,2023, Elapsed time: 0:01:10
+# Errors: 0, Warnings: 2
+vsim -gui Lab2Pt2.lab2_tb
+# vsim -gui Lab2Pt2.lab2_tb 
+# Start time: 18:15:03 on Nov 04,2023
+# Loading sv_std.std
+# Loading Lab2Pt2.lab2_2_tb_sv_unit
+# Loading Lab2Pt2.lab2_tb
+# Loading Lab2Pt2.struct_diag
+# Loading Lab2Pt2.ct_mod_N
+# Loading Lab2Pt2.lcd_int
+# Loading Lab2Pt2.alarm
+quit -sim
+# End time: 18:15:18 on Nov 04,2023, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 1
+# Compile of alarm.sv was successful.
+# Compile of ct_mod_N.sv was successful.
+# Compile of display_tb.sv was successful.
+# Compile of lab2_2_tb.sv was successful.
+# Compile of lcd_int3.sv was successful.
+# Compile of struct_diag.sv was successful.
+# 6 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui Lab2Pt2.lab2_tb
+# vsim -gui Lab2Pt2.lab2_tb 
+# Start time: 18:15:34 on Nov 04,2023
+# Loading sv_std.std
+# Loading Lab2Pt2.lab2_2_tb_sv_unit
+# Loading Lab2Pt2.lab2_tb
+# Loading Lab2Pt2.struct_diag
+# Loading Lab2Pt2.ct_mod_N
+# Loading Lab2Pt2.lcd_int
+# Loading Lab2Pt2.alarm
+run -all
+# buzz = x  at time                    0
+# buzz = 1  at time                 1000
+# 5':current time before setting:'00000', only 1 day digit, all initial values are 0
+#  _    _   _    _   _  
+# | |  | | | |  | | | | 
+# |_|  |_| |_|  |_| |_| 
+# buzz = 0  at time                 7000
+# 5':current time after setting,'40755', increment day successful
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+# display alarm time before setting:'40000', alarm digits does not affect day digit
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+# display alarm time after setting:'40801',alarm buzz at 0801
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+# display current time after setting alarm
+#       _   _    _   _  
+# |_|  | |   |  |_  |_  
+#   |  |_|   |   _|  _| 
+#       _   _    _   _  
+# |_|  | | |_|  | | | | 
+#   |  |_| |_|  |_| |_| 
+# buzz = 1  at time               853000
+# Buzz on Friday.
+#       _   _    _      
+# |_|  | | |_|  | |   | 
+#   |  |_| |_|  |_|   | 
+# buzz = 0  at time               973000
+#       _   _    _   _  
+# |_|  | | |_|  | |  _| 
+#   |  |_| |_|  |_| |_  
+# 5': Day increase successfully by hours reaching 24
+#  _    _   _    _   _  
+# |_   | | |_|  | |  _| 
+#  _|  |_| |_|  |_| |_  
+#  _    _   _    _   _  
+# |_   | | |_|  | |  _| 
+# |_|  |_| |_|  |_| |_  
+# buzz = 1  at time            519253000
+# buzz = 0  at time            519373000
+# 5':Buzz on Friday(4), but not on Sat and Sun (5,6), Buzz again on Mon 0.
+#  _    _   _    _   _  
+# | |  | | |_|  | |  _| 
+# |_|  |_| |_|  |_| |_  
+# ** Note: $stop    : C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv(103)
+#    Time: 522418 ns  Iteration: 0  Instance: /lab2_tb
+# Break in Module lab2_tb at C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part2_starter/Lab2_Part2_Verilog_starter/lab2_2_tb.sv line 103
+quit -sim
+# End time: 18:16:45 on Nov 04,2023, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 2

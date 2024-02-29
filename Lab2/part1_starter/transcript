@@ -1,0 +1,24 @@
+# Compile of display_tb_file.sv was successful.
+# Compile of lab2_tb_file.sv was successful.
+# Compile of alarm.sv was successful.
+# Compile of ct_mod_N.sv was successful.
+# Compile of lcd_int3.sv was successful.
+# Compile of struct_diag.sv was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui Lab2Pt1.lab2_tb
+# vsim -gui Lab2Pt1.lab2_tb 
+# Start time: 22:30:44 on Nov 05,2023
+# Loading sv_std.std
+# Loading Lab2Pt1.lab2_tb_file_sv_unit
+# Loading Lab2Pt1.lab2_tb
+# Loading Lab2Pt1.struct_diag
+# Loading Lab2Pt1.ct_mod_N
+# Loading Lab2Pt1.lcd_int
+# Loading Lab2Pt1.alarm
+run -all
+# ** Note: $stop    : C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv(46)
+#    Time: 3221 us  Iteration: 0  Instance: /lab2_tb
+# Break in Module lab2_tb at C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab2/part1_starter/lab2_tb_file.sv line 46
+quit -sim
+# End time: 22:31:29 on Nov 05,2023, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 3
