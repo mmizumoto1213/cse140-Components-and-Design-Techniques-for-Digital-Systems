@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab3/part2
+vdat_mem
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1702684375
+!i10b 1
+!s100 57MW9i<J9SejczI7KLin01
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgfBAZ1JFj6LE6ahbES6SA2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4
+w1702596942
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/dat_mem.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/dat_mem.sv
+!i122 68
+L0 10 35
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1702684375.000000
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/dat_mem.sv|
+!s90 -reportprogress|300|-work|Lab4|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/dat_mem.sv|
+!i113 1
+Z7 o-work Lab4 -sv
+Z8 tCvgOpt 0
+vLab4_tb
+R0
+R1
+!i10b 1
+!s100 9h?86Qo4:V7Mkk3Be>3ol0
+R2
+IC>mH;MQz93>UE8V3;MPOf1
+R3
+S1
+R4
+w1702596947
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/Lab4_tb.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/Lab4_tb.sv
+!i122 69
+L0 13 115
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/Lab4_tb.sv|
+!s90 -reportprogress|300|-work|Lab4|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/Lab4_tb.sv|
+!i113 1
+R7
+R8
+n@lab4_tb
+vlfsr6
+R0
+R1
+!i10b 1
+!s100 =ZZ@@[XQ5XM@R`2SGHUKd1
+R2
+InnM]^0JK3:X@L9`c4nN^43
+R3
+S1
+R4
+w1702596950
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/lfsr6.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/lfsr6.sv
+!i122 70
+L0 12 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/lfsr6.sv|
+!s90 -reportprogress|300|-work|Lab4|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/lfsr6.sv|
+!i113 1
+R7
+R8
+vtop_level
+R0
+R1
+!i10b 1
+!s100 Xi<eNAom_Lzj@mV:;]8Wj0
+R2
+IRB2H@X:^EcGkQ1dP<h4PI0
+R3
+S1
+R4
+w1702684369
+8C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/top_level.sv
+FC:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/top_level.sv
+!i122 71
+L0 3 146
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/top_level.sv|
+!s90 -reportprogress|300|-work|Lab4|-sv|-stats=none|C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/top_level.sv|
+!i113 1
+R7
+R8

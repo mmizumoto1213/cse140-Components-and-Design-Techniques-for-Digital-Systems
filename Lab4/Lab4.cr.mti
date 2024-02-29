@@ -1,0 +1,29 @@
+C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/dat_mem.sv {1 {vlog -work Lab4 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/dat_mem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dat_mem
+
+Top level modules:
+	dat_mem
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/Lab4_tb.sv {1 {vlog -work Lab4 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/Lab4_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Lab4_tb
+
+Top level modules:
+	Lab4_tb
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/lfsr6.sv {1 {vlog -work Lab4 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/lfsr6.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lfsr6
+
+Top level modules:
+	lfsr6
+
+} {} {}} C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/top_level.sv {1 {vlog -work Lab4 -sv -stats=none C:/Users/mmizu/OneDrive/Desktop/School/CSE140l/Lab4/top_level.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}}
